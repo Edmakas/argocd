@@ -4,6 +4,7 @@ metadata:
   labels:
     run: ema
   name: ema
+  namespace: ema
 spec:
   containers:
   - image: nginx
